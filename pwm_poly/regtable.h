@@ -1,4 +1,10 @@
 
+/**
+ * regtable.h
+ * MIT License
+ * Copyright (c) 2024 Mikatahara
+ */
+
 #include <stdint.h>
 
 typedef struct{
